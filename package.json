@@ -15,6 +15,7 @@
     "express-fileupload": "^1.5.1",
     "morgan": "~1.9.1",
     "nodemon": "^3.1.10",
+    "streamifier": "^0.1.1",
     "uniqid": "^5.4.0"
   },
   "devDependencies": {
